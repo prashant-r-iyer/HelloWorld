@@ -1,0 +1,29 @@
+
+h1 {
+    text-align: justify;
+    display: block;
+    align-self: center;
+}
+
+#about_section {
+    scroll-padding-top: 50%;
+    scroll-padding-bottom: 50%;
+    margin: 200px;
+}
+
+.box{
+    background-color: bisque;
+}
+
+#bar {
+    overflow: hidden;
+    background-color: bisque;
+    position: fixed;
+    bottom: 0;
+    width: 150%;
+  }
+
+#chatbot {
+    background-color: bisque;
+}
+  
